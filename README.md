@@ -1,8 +1,10 @@
-# Tasca S1.01 Exercici 1
+# Tasca S1.01
+
+## Exercici 1
 **Descripció**: Assimilar els conceptes d'herència, polimorfisme, 
 càrrega de classes i blocs estàtics.
 
-## 📌 Estem dissenyant un programa per gestionar instruments musicals d’un grup de música. En aquest grup, hi ha tres tipus d’instruments:
+### 📌 Estem dissenyant un programa per gestionar instruments musicals d’un grup de música. En aquest grup, hi ha tres tipus d’instruments:
 
     Instruments de vent
     Instruments de corda
@@ -10,15 +12,6 @@ càrrega de classes i blocs estàtics.
 
 Tots aquests instruments tenen dues característiques en comú:
 un nom i un preu. A més, tots poden tocar-se, però ho fan de maneres diferents.
-
-## ✨ Funcionalitats (si és aplicable)
-
-## 🛠 Tecnologies
-- Backend: Java
-
-## 🚀 Instal·lació i Execució
-1. Clonar el repositori: `git clone ...`
-2. Execució de l'aplicació.
 
 ## 🧩 Preguntes
 
@@ -32,3 +25,12 @@ Quan s’executa?
 
 Quina diferència hi ha entre aquest i un bloc static?  
 ***Que l'estàtic s'executa en carregar en memória la classe.***
+
+## Exercici 2
+
+## 🛠 Tecnologies
+- Backend: Java
+
+## 🚀 Instal·lació i Execució
+1. Clonar el repositori: `git clone ...`
+2. Execució de l'aplicació.
