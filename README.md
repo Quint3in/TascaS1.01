@@ -46,6 +46,12 @@ Quin afecta totes les instàncies de la classe?
 **Descripció**: Assolir la capacitat d'herència de clases i la implementació
 d'interficies.
 
+## Nivell 3 Exercici 1
+
+**Descripció**: Utilitzar herència, polimorfisme, atributs estàtics i finals,
+gestió d'objeces entre si, estructures de dades i un menú interactiu per consola.
+
+
 ## 🛠 Tecnologies
 - Backend: Java
 
