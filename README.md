@@ -41,6 +41,11 @@ Quin no es pot modificar mai?
 Quin afecta totes les instàncies de la classe?
 ***model.***
 
+## Nivell 2 Exercici 1
+
+**Descripció**: Assolir la capacitat d'herència de clases i la implementació
+d'interficies.
+
 ## 🛠 Tecnologies
 - Backend: Java
 
