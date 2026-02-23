@@ -1,10 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        Smartphone asd = new Smartphone("Samsung","A10");
-        asd.call(23);
-        asd.ringAlarm();
-        asd.takePhoto();
-        System.out.println(asd.getBrand());
-        System.out.println(asd.getModel());
+        Smartphone telefon1 = new Smartphone("Samsung","A10");
+        telefon1.call(777888999);
+        telefon1.ringAlarm();
+        telefon1.takePhoto();
+        System.out.println(telefon1.getBrand());
+        System.out.println(telefon1.getModel());
     }
 }
