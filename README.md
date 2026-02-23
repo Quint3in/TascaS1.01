@@ -16,8 +16,8 @@ un nom i un preu. A més, tots poden tocar-se, però ho fan de maneres diferents
 ## 🧩 Preguntes
 
 Què és un bloc d’inicialització (sense static)?  
-***Es un bloc de codi entre claus {} posat directament dins d'una classe 
-(fora del mètodes o constructors) utilitzat per inicialitzar variables, 
+***És un bloc de codi entre claus {} posat directament dins d'una classe 
+(fora dels mètodes o constructors) utilitzat per inicialitzar variables, 
 especialment quan es requereix lògica complexa.***
 
 Quan s’executa?  
