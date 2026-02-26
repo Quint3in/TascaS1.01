@@ -1,3 +1,5 @@
+package model.article;
+
 public abstract class Article {
 
     protected String headline;
@@ -5,13 +7,13 @@ public abstract class Article {
     protected int score;
     protected double price;
 
-    public Article(String headline) {
+    protected Article(String headline) {
         this.headline = headline;
     }
 
-    abstract double calculateArticlePrice();
+    public abstract double calculateArticlePrice();
 
-    abstract int calculateArticleScore();
+    public abstract int calculateArticleScore();
 
     public String getText() {
         return text;
@@ -41,3 +43,4 @@ public abstract class Article {
         return headline;
     }
 }
+
