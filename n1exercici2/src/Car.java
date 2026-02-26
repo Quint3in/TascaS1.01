@@ -1,8 +1,8 @@
 public class Car {
 
-    final static String brand = "Toyota";
+    static final String brand = "Toyota";
     static String model;
-    final double power;
+    private final double power;
 
     public Car(double power) {
         this.power = power;
