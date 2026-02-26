@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/N1Exercici1/N1Exercici1.iml" filepath="$PROJECT_DIR$/N1Exercici1/N1Exercici1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/N1Exercici2/N1Exercici2.iml" filepath="$PROJECT_DIR$/N1Exercici2/N1Exercici2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/N2Exercici1/N2Exercici1.iml" filepath="$PROJECT_DIR$/N2Exercici1/N2Exercici1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/N3Exercici1/N3Exercici1.iml" filepath="$PROJECT_DIR$/N3Exercici1/N3Exercici1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TascaS1.01.iml" filepath="$PROJECT_DIR$/.idea/TascaS1.01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n1exercici1/n1exercici1.iml" filepath="$PROJECT_DIR$/n1exercici1/n1exercici1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n1exercici2/n1exercici2.iml" filepath="$PROJECT_DIR$/n1exercici2/n1exercici2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n2exercici1/n2exercici1.iml" filepath="$PROJECT_DIR$/n2exercici1/n2exercici1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/n3exercici1/n3exercici1.iml" filepath="$PROJECT_DIR$/n3exercici1/n3exercici1.iml" />
     </modules>
   </component>
 </project>
